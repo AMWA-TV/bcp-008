@@ -1,0 +1,18 @@
+# Don't change these
+remote_theme: pages-themes/primer
+plugins:
+- jekyll-remote-theme
+spec_server: specs.amwa.tv
+
+# AMWA ID
+amwa_id: BCP-008
+
+# Base name for site (typically lower case version of AMWA ID, or the repo name)
+baseurl: /bcp-008
+
+# Which release or branch appears in header links and on the home page
+default_tree: branches/main # alternatively e.g. releases/v1.0
+
+# Regex patterns of releases and branches to show
+show_releases:
+show_branches: main|^publish-

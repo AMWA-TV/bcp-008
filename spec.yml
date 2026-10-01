@@ -1,0 +1,9 @@
+amwa_id: BCP-008
+url: https://specs.amwa.tv/bcp-008
+name: Status Monitoring
+status: Suite
+repo_name: bcp-008
+alt_repo_name: nmos-status-monitoring
+repo_url: https://github.com/AMWA-TV/bcp-008
+default_branch: main
+show_in_index: false
