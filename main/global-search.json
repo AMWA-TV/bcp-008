@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "repository": "AMWA-TV/bcp-008",
+  "documents": [
+    {
+      "title": "AMWA BCP-008 NMOS Status Monitoring",
+      "url": "https://specs.amwa.tv/new/bcp-008/latest/Overview/",
+      "text": "AMWA BCP-008 NMOS Status Monitoring AMWA BCP-008 NMOS Status Monitoring Introduction Suite documents Overview - AMWA BCP-008: NMOS Status Monitoring Skip to content AMWA BCP-008 NMOS Status Monitoring (c) AMWA 2026, CC Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0) Introduction The BCP-008 series defines status-monitoring recommendations for NMOS Devices. It provides a consistent way for monitoring systems and operators to understand the operational state of stream Receivers and Senders. The suite is divided into two complementary recommendations: BCP-008-01: NMOS Receiver Status Monitoring covers the status of stream Receivers, including connectivity, synchronization, and stream validation. BCP-008-02: NMOS Sender Status Monitoring covers the status of stream Senders, including connectivity, synchronization, and essence validation. The recommendations use the NMOS Control Framework and NMOS Control Protocol to expose monitoring models and status information. They should be read alongside the relevant NMOS specifications: MS-05-02: NMOS Control Framework IS-12: NMOS Control Protocol IS-04: NMOS Discovery and Registration IS-05: NMOS Device Connection Management Suite documents Document Scope BCP-008-01 NMOS Receiver Status Monitoring BCP-008-02 NMOS Sender Status Monitoring For the current status of the individual recommendations, see the NMOS Best Common Practices list .",
+      "repository": "AMWA-TV/bcp-008"
+    },
+    {
+      "title": "README",
+      "url": "https://specs.amwa.tv/new/bcp-008/latest/images/",
+      "text": "README README README - AMWA BCP-008: NMOS Status Monitoring Skip to content README This directory is for images used in documentation",
+      "repository": "AMWA-TV/bcp-008"
+    },
+    {
+      "title": "AMWA BCP-008: NMOS Status Monitoring",
+      "url": "https://specs.amwa.tv/new/bcp-008/latest/",
+      "text": "AMWA BCP-008: NMOS Status Monitoring AMWA BCP-008: NMOS Status Monitoring What does the suite do? Why does it matter? What are the recommendations? Getting started AMWA BCP-008: NMOS Status Monitoring - AMWA BCP-008: NMOS Status Monitoring Skip to content AMWA BCP-008: NMOS Status Monitoring This repository holds the suite overview for the BCP-008 series of AMWA Best Common Practices, part of the family of Networked Media Open Specifications from the Advanced Media Workflow Association . What does the suite do? The BCP-008 series defines status-monitoring recommendations for NMOS Devices. It describes the status models and monitoring requirements for both stream Receivers and Senders. Why does it matter? Consistent status models allow monitoring systems and operators to identify connectivity, synchronization, and stream or essence problems in a predictable way. Separating the Receiver and Sender recommendations makes the requirements clear while keeping them part of one coherent status-monitoring suite. What are the recommendations? BCP-008-01: NMOS Receiver Status Monitoring BCP-008-02: NMOS Sender Status Monitoring Getting started Start with the BCP relevant to the type of stream endpoint being monitored: BCP-008-01 for Receivers BCP-008-02 for Senders There is more information about the NMOS Specifications and their GitHub repositories at https://specs.amwa.tv/nmos .",
+      "repository": "AMWA-TV/bcp-008"
+    }
+  ]
+}
