@@ -1,0 +1,3 @@
+legacy_url,legacy_status,target_url,target_status_current,mapping_class,legacy_content_type,legacy_location,target_content_type,target_effective_url
+https://specs.amwa.tv/bcp-008,404,https://specs.amwa.tv/bcp-008/,200,confirmed-inventory,text/html,,text/html,https://specs.amwa.tv/bcp-008/
+https://specs.amwa.tv/bcp-008/,404,https://specs.amwa.tv/bcp-008/,200,confirmed-inventory,text/html,,text/html,https://specs.amwa.tv/bcp-008/
